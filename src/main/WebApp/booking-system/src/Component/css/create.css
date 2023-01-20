@@ -1,0 +1,23 @@
+body{
+    font-family: Montserrat;
+}
+Label{
+    font-style: italic;
+    width: 100%;
+    margin-left: 0.8em;
+    text-align: left;
+}
+#btn-submit{
+    background-color: rgba(56, 147, 175) !important;
+    border-color: rgba(56, 147, 175) !important;;
+    position: absolute;
+    right: 1em;
+    bottom: 1em;
+}
+#icon{
+    size: 10em;
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: -38em;
+}

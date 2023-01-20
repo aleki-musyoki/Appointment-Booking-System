@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: Montserrat;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+button{
+  backgroundColor: '#11899D' !important;
+  borderColor: '#11899D' !important;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

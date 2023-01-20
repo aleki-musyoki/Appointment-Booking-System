@@ -1,0 +1,17 @@
+tbody tr:nth-child(odd) {
+    background-color: rgba(56, 147, 175, 20%);
+    color: #000000;
+}
+
+tbody tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 100%) !important;
+    color: #000000;
+}
+
+.nav-pills  .nav-item.show .nav-link .nav-link:hover{
+    border-color: rgba(56, 147, 175, 20%);
+    color: #000000 !important;
+}
+.nav-pills .nav-link.active{
+    background-color: rgba(56, 147, 175) !important;
+}
